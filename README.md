@@ -28,7 +28,8 @@ pip3 install -r requirements.txt (на клиенте и сервере)
 
 ```sh
 sudo apt update
-sudo install tmux
+sudo apt install tmux (Для систем на Ubuntu)
+sudo pacman -S tmux (Для систем на Arch)
 ```
 
 5. Открываем сервер и редактируем IP:PORT на значения 0.0.0.0:4444
