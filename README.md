@@ -1,4 +1,4 @@
-### ZMessenger
+### Messenger
 Мессенджер, который гарантирует приватность вашей переписки.
 Вы сами контролируете весь процесс.
 
@@ -18,8 +18,8 @@
 2. Устанавливаем зависимости и настраиваем проект
 
 ```sh
-git clone https://github.com/Zproger/ZMessenger.git
-cd ZMessenger
+git clone https://github.com/Zproger/Messenger.git
+cd Messenger
 pip3 install -r requirements.txt (на клиенте и сервере)
 ```
 
